@@ -43,6 +43,13 @@ public class GlobalServlet extends HttpServlet {
 		}
 		
 		
-	}}}
+	}
+		if(option.equals("login")) {
+		
+
+		}
+		
+		
+	}}
 
 
